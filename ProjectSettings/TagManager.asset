@@ -8,7 +8,6 @@ TagManager:
   - Projectile
   - Destroyer
   - MiniWorldCamera
-  - Water
   layers:
   - Default
   - TransparentFX
