@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * text=auto
 
 # Unity insists using LF for its text assets so prevent changing them to CRLF
@@ -10,3 +11,7 @@
 *.mesh text eol=lf
 *.txt text eol=lf
 LightingData.asset -text
+=======
+# Auto detect text files and perform LF normalization
+* text=auto
+>>>>>>> origin/main
